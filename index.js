@@ -6,4 +6,7 @@ http.createServer((req, res) => {
     res.end();
 }).listen(4000)*/
 
+
+
+console.log("ashish");
 console.log(process.argv[2]);
